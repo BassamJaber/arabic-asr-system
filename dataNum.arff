@@ -1,0 +1,18 @@
+@RELATION relation
+@attribute article string
+@ATTRIBUTE Class  {1 , 2}
+@DATA
+1,'Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...'
+2,'Ok lar... Joking wif u oni...'
+1,'Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...'
+2,'Ok lar... Joking wif u oni...'
+1,'Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...'
+2,'Ok lar... Joking wif u oni...'
+1,'Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...'
+2,'Ok lar... Joking wif u oni...'
+1,'Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...'
+2,'Ok lar... Joking wif u oni...'
+1,'Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...'
+2,'Ok lar... Joking wif u oni...'
+
+
