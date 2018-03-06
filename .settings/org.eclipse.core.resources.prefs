@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//Grammar/hello.gram=UTF-8
+encoding//WekaData/testing.arff=UTF-8
+encoding//WekaData/testingData.arff=UTF-8
+encoding//src/demo/sphinx/helloworld/hello.gram=UTF-8
+encoding//src/demo/sphinx/helloworld/testingData.arff=UTF-8
+encoding//src/demo/sphinx/helloworld/trainingData.arff=UTF-8
+encoding/Exported.txt=UTF-8
+encoding/Instance.txt=UTF-8
+encoding/TestingAppend.arff=UTF-8
+encoding/allQuestions.txt=UTF-8
+encoding/data.arff=UTF-8
+encoding/dataNum.arff=UTF-8
+encoding/testing.txt=UTF-8
+encoding/training.arff=UTF-8
+encoding/trainingData.arff=UTF-8
